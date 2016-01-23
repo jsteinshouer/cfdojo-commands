@@ -49,7 +49,7 @@
     },
     "ignore":[
         "**/.*",
-        "_templates/kata",
-        "_templates/module"
+        "_templates/kata/*",
+        "_templates/module/*"
     ]
 }
