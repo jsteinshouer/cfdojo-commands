@@ -1,0 +1,9 @@
+{
+	"id": "@id@",
+	"title": "@title@",
+	"module": "@module@",
+	"solutionFile": "@solutionFile@",
+	"testFile": "@testFile@",
+	"solutionTestFile": "@solutionTestFile@",
+	"otherFiles": []
+}
