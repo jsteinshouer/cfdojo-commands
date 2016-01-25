@@ -5,5 +5,5 @@
 	"solutionFile": "@solutionFile@",
 	"testFile": "@testFile@",
 	"solutionTestFile": "@solutionTestFile@",
-	"otherFiles": []
+	"dependencies": []
 }
